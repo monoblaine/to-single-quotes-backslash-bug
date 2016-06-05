@@ -1,0 +1,17 @@
+{
+  "name": "to-single-quotes-backslash-bug",
+  "license": "UNLICENSED",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/monoblaine/to-single-quotes-backslash-bug.git"
+  },
+  "scripts": {
+    "test": "node script.js"
+  },
+  "version": "0.1.0",
+  "devDependencies": {
+    "fs": "0.0.2",
+    "to-single-quotes": "^2.0.0"
+  }
+}
